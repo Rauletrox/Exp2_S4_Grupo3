@@ -1,8 +1,8 @@
 cl/bibliotecaduocuc/bibliotecaduocuc/Biblioteca.class
 cl/bibliotecaduocuc/bibliotecaduocuc/Libro.class
+cl/bibliotecaduocuc/bibliotecaduocuc/excepciones/LibroYaPrestadoException.class
 cl/bibliotecaduocuc/bibliotecaduocuc/Usuario.class
-cl/bibliotecaduocuc/bibliotecaduocuc/UsuarioDuplicadoException.class
-cl/bibliotecaduocuc/bibliotecaduocuc/LibroNoEncontradoException.class
-cl/bibliotecaduocuc/bibliotecaduocuc/LibroYaPrestadoException.class
-cl/bibliotecaduocuc/bibliotecaduocuc/UsuarioNoEncontradoException.class
+cl/bibliotecaduocuc/bibliotecaduocuc/excepciones/UsuarioDuplicadoException.class
+cl/bibliotecaduocuc/bibliotecaduocuc/excepciones/LibroNoEncontradoException.class
+cl/bibliotecaduocuc/bibliotecaduocuc/excepciones/UsuarioNoEncontradoException.class
 cl/bibliotecaduocuc/bibliotecaduocuc/BibliotecaDUOCUC.class

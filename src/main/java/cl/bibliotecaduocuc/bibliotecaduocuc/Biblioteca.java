@@ -1,4 +1,8 @@
 package cl.bibliotecaduocuc.bibliotecaduocuc;
+import cl.bibliotecaduocuc.bibliotecaduocuc.excepciones.UsuarioNoEncontradoException;
+import cl.bibliotecaduocuc.bibliotecaduocuc.excepciones.UsuarioDuplicadoException;
+import cl.bibliotecaduocuc.bibliotecaduocuc.excepciones.LibroNoEncontradoException;
+import cl.bibliotecaduocuc.bibliotecaduocuc.excepciones.LibroYaPrestadoException;
 import java.io.*;
 import java.util.*;
 

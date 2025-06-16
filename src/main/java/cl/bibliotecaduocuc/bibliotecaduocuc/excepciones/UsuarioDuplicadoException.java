@@ -1,4 +1,4 @@
-package cl.bibliotecaduocuc.bibliotecaduocuc;
+package cl.bibliotecaduocuc.bibliotecaduocuc.excepciones;
 
 
 public class UsuarioDuplicadoException extends Exception {
